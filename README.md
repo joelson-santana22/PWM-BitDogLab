@@ -51,7 +51,7 @@ Software
 - Ferramentas para upload do código para o Pico (VSCode e extensões do Raspberry Pi Pico).
 - Acesso à platarforma Wokwi web e integrada ao VSCode.
 
-## LINK DO REPOSITÓRIO GITHUB: 
+## LINK DO REPOSITÓRIO GITHUB: https://github.com/joelson-santana22/PWM-BitDogLab.git
 
 ## Link do vídeo desmonstrativo: https://drive.google.com/drive/folders/1_l-GPlkp8PZr6ayEdxw6Rp2WD52hdrvl?usp=sharing
 ____________________________________________________________________________________________________________________________________
